@@ -30,7 +30,7 @@ let rooms = [{
 }];
 
 let bookings = [{
-  customer: "Selva",
+  customer: "Aegon Targeryan",
   bookingDate: "20230612",
   startTime: "12:00pm",
   endTime: "11:59am",
